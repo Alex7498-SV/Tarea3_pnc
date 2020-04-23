@@ -1,0 +1,15 @@
+body{
+	background: #edede8;
+	font-family: 'Montserrat', sans-serif;
+	margin: 10px;
+}
+
+#titulo{
+	text-align: center;
+	font-size: 26px;
+}
+
+
+#formulario{
+	margin: 10px;
+}
